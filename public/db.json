@@ -1,0 +1,47 @@
+{
+    "data": [
+        {
+            "request": {
+                "type": "LatLon",
+                "query": "Lat 40.18 and Lon 44.52",
+                "language": "en",
+                "unit": "m"
+            },
+
+            "location": {
+                "name": "Revan",
+                "country": "Armenia",
+                "region": "Yerevan",
+                "lat": "40.181",
+                "lon": "44.514",
+                "timezone_id": "Asia/Yerevan",
+                "localtime": "2022-09-15 01:26",
+                "localtime_epoch": 1663205160,
+                "utc_offset": "4.0"
+            },
+
+            "current": {
+                "observation_time": "09:26 PM",
+                "temperature": 17,
+                "weather_code": 113,
+                "weather_icons": [
+                "https://assets.weatherstack.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png"
+                ],
+                "weather_descriptions": [
+                "Clear"
+                ],
+                "wind_speed": 4,
+                "wind_degree": 326,
+                "wind_dir": "NNW",
+                "pressure": 1014,
+                "precip": 0,
+                "humidity": 42,
+                "cloudcover": 0,
+                "feelslike": 17,
+                "uv_index": 1,
+                "visibility": 10,
+                "is_day": "no"
+            }
+        }
+    ]
+}

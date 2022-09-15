@@ -1,0 +1,9 @@
+.carousel{
+    position: absolute;
+    display: flex;
+}
+.item{
+    display: flex;
+    position: absolute;
+    color: blue;
+}
